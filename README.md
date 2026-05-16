@@ -125,8 +125,8 @@ pip install -r requirements.txt
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-user>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/siryo169/LSE-Real-Time-Translation.git
+   cd LSE-Real-Time-Translation
    ```
 
 2. **Install dependencies:**
@@ -167,7 +167,7 @@ pip install -r requirements.txt
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (CC BY-NC-SA 4.0) — see the [LICENSE](LICENSE) file for details.
 
 If you use code or ideas from this repository, please cite the associated project report.
 
