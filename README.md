@@ -145,10 +145,10 @@ pip install -r requirements.txt
 
 ## 👥 Authors
 
-- **Younes Aghani** — [@younesaghani](https://github.com/)
-- **Álvaro Gómez García** — [@alvarogomez](https://github.com/)
-- **Carlos García Jiménez** — [@carlosgarciaj](https://github.com/)
-- **Alonso Lucas Juberías** — [@alonsolucasj](https://github.com/)
+- **Younes Aghani** — younesaghani@correo.ugr.es
+- **Álvaro Gómez García** — algoga@correo.ugr.es
+- **Carlos García Jiménez** — carlosgarciajim02@gmail.com
+- **Alonso Lucas Juberías** — alonsolucasj@correo.ugr.es
 
 ---
 
